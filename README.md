@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aacharlotte](https://github.com/aacharlotte)
 
-- 📝 I regularly write articles on [ORCID ID: 0000-0002-5874-1843](ORCID ID: 0000-0002-5874-1843)
+- 📝 I regularly write articles on (ORCID ID: 0000-0002-5874-1843)
 
 - 📫 How to reach me **charlotte.arinaitwe@gmail.com**
 
