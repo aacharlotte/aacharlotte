@@ -1,27 +1,46 @@
-<h1 align="center">Hi 👋, I'm Charlotte Arinaitwe</h1>
-<h3 align="center">A passionate Data Scientist from Kenya</h3>
+<h1 align="center">Hi, I'm Charlotte Arinaitwe</h1>
 
-- 🔭 I’m currently working on **Rainfall time-series analysis and how observed rainfall variability could influence crop yield**
 
-- 🌱 I’m currently learning **ML**
+Welcome to my portfolio — a space where I share my work, insights, and commitment to data-driven impact.
 
-- 👯 I’m looking to collaborate on **Socioeconomic descriptive, diagnostic, predictive and prescritive analytics**
+I’m a Data Scientist with a focus on social and economic development, leveraging data analytics, machine learning, and intelligent automation to support evidence-based policy and program decisions. My expertise lies in applying advanced statistical methods, predictive modeling, and business intelligence tools to address critical development challenges.
 
-- 🤝 I’m looking for help with **ML**
+My experience spans across sectors such as public policy, international development, education, public health, labor markets, and sustainability, where I’ve designed and implemented data-driven solutions — from impact evaluation models and forecasting tools to automated reporting systems and AI-powered decision support.
 
-- 👨‍💻 All of my projects are available at [https://github.com/aacharlotte](https://github.com/aacharlotte)
+Strategic, detail-oriented, and collaborative by nature, I’m passionate about transforming data into meaningful insights that inform policy, enhance programs, and empower communities.
 
-- 📝 I regularly write articles on (ORCID ID: 0000-0002-5874-1843)
+Checkout my publications on ORCID ID: 0000-0002-5874-1843
 
-- 📫 How to reach me **charlotte.arinaitwe@gmail.com**
+<h1 align="left">Core Competencies</h2>
 
-- 📄 Know about my experiences [On request](On request)
+- **Data Analysis:** Analyze complex datasets (within any industry) to identify trends and patterns.
+- **Machine Learning:** Apply machine learning techniques using Python and relevant libraries.
+- **Data Visualization:** Create insightful visualizations using Tableau and Power BI.
+- **SQL & Database Management:** Query and manage data across various database systems with SQL.
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with Me</h2>
+
+
 <p align="left">
-<a href="https://linkedin.com/in/charlotte-arinaitwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlotte-arinaitwe" height="30" width="40" /></a>
+  <!-- GitHub -->
+  <a href="https://github.com/aacharlotte" title="My GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub tab"/>
+  </a>
+  &nbsp;
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/charlotte-arinaitwe" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn tab"/>
+  </a>
+  &nbsp;
+  <!-- Email -->
+  <a href="charlotte.arinaitwe@gmail.com" title="Email me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email tab"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+<h1 align="left">💼Portfolio 👇</h2>
+
+Disclaimer ⚠️: *The datasets, analyses, and reports presented in this portfolio are based on publicly available or synthetic data and are intended solely for demonstration purposes. No proprietary, confidential, or sensitive information from any company, institution, or individual is included. These examples are designed to showcase my technical skills in data science and analytics while adhering to ethical standards and respecting data privacy.*
 
